@@ -15,7 +15,7 @@ import com.tianxin.sqlitetest.banbensql.DBHelper2;
 
 import java.util.ArrayList;
 import java.util.List;
- //测试
+ //测试2
 public class MainActivity extends AppCompatActivity {
 
     private static String CREATE_TABLE ="create table number(_id integer primary key autoincrement ,phone real)";
